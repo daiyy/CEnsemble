@@ -11,8 +11,8 @@ yet been used in production systems nearly as much as Ensemble.
 
 For more information on Ensemble please visit the home pages at:
 
-  Homepage: http://www.cs.cornell.edu/Info/Projects/Ensemble/index.html
-  Download: ftp://cs.cornell.edu/pub/ensemble/
+  Homepage: http://www.cs.technion.ac.il/Labs/csl/projects/Ensemble/
+  Download: http://www.cs.technion.ac.il/Labs/csl/projects/Ensemble/license.html
 
 The C-Ensemble library APIs are undocumented, but are very similar to
 that of Ensemble.  The architecture and protocols are exactly the
